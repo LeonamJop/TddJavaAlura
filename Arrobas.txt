@@ -1,0 +1,11 @@
+@Test: JUnit identifica que é um teste;
+
+@BeforeEach: JUnit identifica que precisa fazer antes de cada teste,
+como chamar um método por exemplo;
+
+@AfterEach: JUnit identifica que precisa fazer depois de cada teste,
+como chamar um método por exemplo;
+
+@BeforeAll: Roda uma unica vez antes de todos (Precisa ser static);
+
+@AfterAll: Roda uma unica vez depois de todos (Precisa ser static);
